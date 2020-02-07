@@ -26,7 +26,7 @@ body {
 }
 .navbar-brand img{
     height: 2rem;
-}   
+}
 .navbar-nav li {
     padding-right: 1rem;
 }
@@ -145,20 +145,8 @@ h3.heading {
 }
 .fixed-background p {
     margin-top: 1.5rem;
-}   
+}
 
-/*-- Clients Section --*/
-
-.clients img {
-    width: 100%;
-}
-blockquote .svg-inline--fa {
-    color: #1eeba3;
-    margin: 1rem;
-}
-.clients-hr {
-    border-top: o.5rem solid #1ebba3;
-}
 
 /*-- Contact Section --*/
 
@@ -182,11 +170,7 @@ footer svg.svg-inline--fa {
 footer svg.svg-inline--fa:hover {
     color: #1ebba3!important;
 }
-hr.socket {
-    width: 100%;
-    border-top: .2rem solid #666b71;
-    margin-top: 3rem;
-}
+
 
 /*-- Media Queries --*/
 
